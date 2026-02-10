@@ -16,8 +16,8 @@
 #include "lwip/apps/http_client.h"
 
 // ==================== CONFIGURAÇÕES WiFi/HTTP ====================
-#define WIFI_SSID       "DRACON"           // <<<< CONFIGURE AQUI
-#define WIFI_PASSWORD   "am3426bn14"          // <<<< CONFIGURE AQUI
+#define WIFI_SSID       "SUA REDE"           // <<<< CONFIGURE AQUI
+#define WIFI_PASSWORD   "SUA SENHA"          // <<<< CONFIGURE AQUI
 #define SERVER_IP       "192.168.1.100"           // <<<< CONFIGURE AQUI
 #define SERVER_PORT     5000                      // <<<< CONFIGURE AQUI
 
