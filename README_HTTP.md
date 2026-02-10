@@ -187,6 +187,6 @@ Se você não precisa de FreeRTOS, use o arquivo `main.c` original que já compi
 
 ---
 
-**Autor**: Sistema Integrado BitDogLab  
+**Autor**: Alexandre Magno Braga do Nascimento  
 **Data**: Fevereiro 2026  
 **Versão**: 1.0 - FreeRTOS + HTTP
